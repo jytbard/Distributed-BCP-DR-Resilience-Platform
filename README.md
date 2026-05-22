@@ -1,2 +1,3 @@
-# Distributed BCP:DR Resilience Platform
+# Distributed BCP/DR Resilience Platform
 
+As a Principal AI Architect leading a 9-month capital-markets resilience program for Vessel Capital Ltd., where I designed and governed a governed BCP/DR control plane for incident declaration, policy validation, recovery orchestration, evidence generation, and immutable audit retention. The platform replaced fragmented, manual continuity processes with a deterministic, workflow-driven operating model built for regulated environments, with strong emphasis on idempotency, state control, replay safety, and compliance-grade traceability. I owned the reference architecture across AI, platform, SRE, data, DevOps, QA, and security, and drove alignment with risk and compliance stakeholders to ensure the system could be defended under operational stress.
